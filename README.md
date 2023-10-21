@@ -9,11 +9,13 @@ Car themed games
 
 - Background Music: Enjoy a captivating gaming atmosphere with continuous background music.
 - User Authentication: A user-friendly login and sign-up page ensures a personalized gaming experience.
-  ![image](https://github.com/za28/Car-Games/assets/114661472/99f03053-5577-47e7-9b51-6406c2600f39)
+  <img src="https://github.com/za28/Car-Games/assets/114661472/99f03053-5577-47e7-9b51-6406c2600f39" width="700">
+
 
 
 - Game Collection: The application presents a trio of thrilling games: Carsteroids, Car Crush, and Formula Z.
-  ![image](https://github.com/za28/Car-Games/assets/114661472/cf0b2fb9-089a-42d5-862d-7d1b96a3aa2a)
+  <img src="https://github.com/za28/Car-Games/assets/114661472/cf0b2fb9-089a-42d5-862d-7d1b96a3aa2a" width="700">
+
 
 
 
